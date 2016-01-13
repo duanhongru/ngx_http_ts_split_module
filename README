@@ -28,7 +28,7 @@ Description
     This module can get ts slice from local.
 
 Directives
-  ts_split_cos
+  ts_split
     syntax: *ts_split;*
 
     default: *none*
